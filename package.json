@@ -1,6 +1,6 @@
 {
   "name": "cashigo",
-  "version": "1.0.0",
+  "version": "dev-1.0.0",
   "description": "CashiGo est un logiciel de caisse open source, simple, rapide et sécurisé, disponible sur Windows.",
   "main": "index.js",
   "scripts": {
