@@ -1,0 +1,38 @@
+{
+  "name": "cashigo",
+  "version": "1.0.0",
+  "description": "CashiGo est un logiciel de caisse open source, simple, rapide et sécurisé, disponible sur Windows.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Aucun test défini\" && exit 0",
+    "lint": "eslint .",
+    "build": "echo \"Aucune étape de build définie\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lighscent/cashigo.git"
+  },
+  "keywords": [
+    "cashigo",
+    "caisse",
+    "pos",
+    "open-source",
+    "windows"
+  ],
+  "author": "lighscent <augustin.pro.prs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lighscent/cashigo/issues"
+  },
+  "homepage": "https://github.com/lighscent/cashigo#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "os": [
+    "win32"
+  ]
+}
